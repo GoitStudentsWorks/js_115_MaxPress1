@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/portfoliators-team/",
+    "build": "vite build --base=/js_115_MaxPress1/",
     "preview": "vite preview"
   },
   "devDependencies": {
